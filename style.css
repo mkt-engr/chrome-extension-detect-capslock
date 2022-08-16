@@ -1,0 +1,18 @@
+.alert-detect-capslock {
+  font-family: "math";
+  display: none;
+  background-color: red;
+  color: white;
+  font-size: 1.5rem;
+  text-align: left;
+}
+.alert-detect-capslock .alert-detect-text {
+  margin: auto 0;
+  /* vertical-align: super; */
+}
+.alert-detect-capslock .alert-detect-icon {
+  font-size: 1.5em;
+  margin-inline: 0;
+  margin-top: auto;
+  margin-bottom: auto;
+}
