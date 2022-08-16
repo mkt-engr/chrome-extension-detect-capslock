@@ -1,0 +1,1 @@
+# chrome-extention-detect-capslock
